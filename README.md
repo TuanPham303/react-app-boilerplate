@@ -1,4 +1,8 @@
 Start the project: 
-```npm start```
+```
+npm start
+```
 Build for production: 
-```npm build```
+```
+npm build
+```
